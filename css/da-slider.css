@@ -17,8 +17,8 @@
 }
 .da-slide{
 	position: absolute;
-	width: 100%;
-	height: 100%;
+	width: 90%;
+	height: 90%;
 	top: 0px;
 	left: 0px; 
 	text-align: left;
@@ -54,7 +54,7 @@
 	color: #fff;
 	font-size: 66px;
 	width: 50%;
-	top: 60px;
+	top: 30px;
 	white-space: nowrap;
 	z-index: 10;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.1); 
@@ -62,12 +62,12 @@
 }
 .da-slide p{
 	width: 45%;
-	top: 155px;
+	top: 110px;
 	color: #916c05;
 	font-size: 18px;
-	line-height: 26px;
-	height: 80px;
-	overflow: hidden;
+	line-height: 1;
+	height: 20px;
+	overflow: visible;
 	font-style: italic;
 	font-weight: 400;
 	font-style: italic;
